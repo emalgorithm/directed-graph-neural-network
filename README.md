@@ -203,5 +203,5 @@ The following command line arguments can be used with the code:
 ```
 
 ## Contact
-If you have any questions, issues or feedback, feel free to reach out to us at `emanuele.rossi1909@gmail.com`.
+If you have any questions, issues or feedback, feel free to reach out to Emanuele Rossi at `emanuele.rossi1909@gmail.com` or Bertrand Charpentier at `bertrand.henri.charpentier@gmail.com`.
 
