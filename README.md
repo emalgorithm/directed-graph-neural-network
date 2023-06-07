@@ -7,7 +7,7 @@
     <img src="figures/dirgnn_results.png" width="600">
 </p>
 
-Dir-GNN is a machine learning framework that enables machine learning on *directed* graphs. This repository contains the official implementation of the paper ["Edge Directionality Improves Learning on Heterophilic Graphs"](https://arxiv.org/abs/2305.10498), where we introduce Dir-GNN and show that leveraging edge directionality leads to improved learning on heterophilic graphs.
+Dir-GNN is a machine learning model that enables learning on *directed* graphs. This repository contains the official implementation of the paper ["Edge Directionality Improves Learning on Heterophilic Graphs"](https://arxiv.org/abs/2305.10498), where we introduce Dir-GNN and show that leveraging edge directionality leads to improved learning on heterophilic graphs.
 
 - [Dir-GNN: Edge Directionality Improves Learning on Heterophilic Graphs](#dir-gnn-edge-directionality-improves-learning-on-heterophilic-graphs)
   - [Overview](#overview)
